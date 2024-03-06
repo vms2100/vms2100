@@ -14,3 +14,5 @@ I'm Vasco, a technology enthusiast passionate about software development. This r
 - Email: vms[at]outlook.pt
 
 Feel free to explore my projects and get in touch with me for any questions or collaboration. Thanks for stopping by!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vms2100&show_icons=true&theme=transparent)
