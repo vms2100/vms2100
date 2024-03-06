@@ -13,13 +13,11 @@ Databases: MySQL, SQLLite3
 
 Others: MQTT
 
-### 💬Contributions
-
-If you have any suggestions or would like to contribute to any of my projects, feel free to open an issue or send a pull request. I'm always open to new ideas and collaborations!
-
 ### 📫Contact
 
 Email: vms[at]outlook.pt
+
+### Other
 Feel free to explore my projects and get in touch with me for any questions or collaboration. Thanks for stopping by!
 
 <!--
