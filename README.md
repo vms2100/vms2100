@@ -1,5 +1,5 @@
 ### 👋 Hi there 
-I'm Vasco, a technology enthusiast passionate about software development. This repository serves as a space to share my projects, ideas, and experiences in the programming world.
+I'm Vasco, a technology enthusiast passionate about software development and cybersecurity. This repository serves as a space to share my projects, ideas, and experiences in the programming world.
 
 ### 📚 Skills
 
